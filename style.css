@@ -49,5 +49,36 @@ body {
 
     border: 0;
 
+}
 
+/* My Failures part */
+
+.failures {
+    display: flex;
+    margin-top: 100px;
+}
+
+.fail-img {
+    margin-left: 100px;
+}
+
+.fail-div {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.fail-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.fail-sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.fa-solid {
+    color: #F15B22;
 }
