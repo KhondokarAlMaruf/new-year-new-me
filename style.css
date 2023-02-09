@@ -1,0 +1,53 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+/* banner style */
+
+.banner {
+    text-align: right;
+    padding-top: 145px;
+    padding-right: 200px;
+}
+
+.banner-bg {
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    position: center;
+}
+
+
+.banner-heading {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin-bottom: 0;
+
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 10pxpx;
+
+}
+
+.Contact-btn {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 20px 25px;
+
+    border: 0;
+
+
+}
