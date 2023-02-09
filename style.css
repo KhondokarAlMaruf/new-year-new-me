@@ -142,3 +142,26 @@ body {
     margin: 80px 300px;
     padding: 40px 0px 60px 60px;
 }
+
+/* partner Company */
+#partners-heading {
+    font-size: 55px;
+}
+
+.partners-paragraph {
+    font-size: 20px;
+    color: rgb(134, 132, 132);
+}
+
+#company-img {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.partners {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+/* footer style */
