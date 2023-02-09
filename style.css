@@ -82,3 +82,35 @@ body {
 .fa-solid {
     color: #F15B22;
 }
+
+/* my plan style */
+.plan-head {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+}
+
+.plan-four-box {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 300px;
+
+}
+
+.box-skill {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+
+}
+
+.box-want {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.plan-box {
+    text-align: center;
+}
